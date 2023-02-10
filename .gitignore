@@ -1,0 +1,7 @@
+*.DS_store
+/Library
+/Packages
+/Assets/CartoonTracksPack1/Track1/Textures/road_normal.png
+/Assets/CartoonTracksPack1/Track1/Textures/road.psd
+/venv
+/venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd

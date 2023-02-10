@@ -1,0 +1,2 @@
+.\venv\Scripts\activate
+mlagents-learn .\Assets\Karting\Prefabs\AI\kart_mg_trainer_config.yaml --train --run-id=custom-track-1
